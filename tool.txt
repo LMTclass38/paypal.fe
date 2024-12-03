@@ -1,6 +1,6 @@
-SDLC
-linus
-scripting
-git
-aws
-ec2
+SDLC = This is software development life circle
+linus is an open source platform for developers
+scripting = is autmation platform
+git is distributede version control system DVCS
+aws is a cloiud computing provider and platform
+ec2 is virtual server in the cloud
